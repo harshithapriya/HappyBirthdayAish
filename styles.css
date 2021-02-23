@@ -1,0 +1,17 @@
+body{
+  background-color: #4e3d53;
+  font-family: 'Dancing Script', cursive;
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  margin-bottom: 50px;
+}
